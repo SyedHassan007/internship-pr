@@ -2,14 +2,6 @@
 
 Smart Spoon is a machine learning-powered web application that recognizes food from images, estimates salt content, and collects user feedback for analysis. Built with TensorFlow, Streamlit, and NLP tools.
 
----
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
 
 ## 🧰 Tech Stack
 
@@ -59,20 +51,8 @@ python train_food_model.py
 streamlit run streamlit_app.py
 ```
 
----
 
-## 🖼️ Screenshots
 
-### 🏠 Home Screen
-![Home](screenshots/home.png)
-
-### 📊 Results View
-![Results](screenshots/results.png)
-
-### 💬 Feedback Chart
-![Sentiment](screenshots/sentiment_chart.png)
-
----
 
 ## 📁 Directory Structure
 
