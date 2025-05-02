@@ -1,0 +1,11 @@
+stimulation_level,food_type,duration_sec,user_age,satisfaction_score
+3,Pasta,120,45,1
+2,Salad,90,33,0
+4,Pasta,130,50,1
+1,Salad,80,28,0
+3,Meat,110,37,1
+4,Bread,100,52,1
+2,Rice,95,31,0
+3,Rice,105,40,1
+1,Meat,85,29,0
+4,Bread,115,60,1
